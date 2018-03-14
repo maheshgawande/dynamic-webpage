@@ -30,7 +30,7 @@ input[type="button"]:hover{
   /* background: linear-gradient(#ffb3b3, #ffcccc, #ffe6e6) no-repeat; */
   background-color: #ffb3b3;
   width: 800px;
-  height: 675px;
+  height: 590px;
   overflow: auto;
 }
 
@@ -49,15 +49,14 @@ input[type="button"]:hover{
 }
 
 .dltSpan{
+  font-family: sans-serif;
   font-size: 20px;
   color: white;
   float: right;
-  margin: 5px 6px;
   padding: 5px 6px;
   cursor: pointer;
 }
 
 .dltSpan:hover{
-  font-family: sans-serif;
   background-color: grey;
 }
